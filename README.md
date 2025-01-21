@@ -1,2 +1,2 @@
 # TestingGitRepo
-This is examle change
+This is example change
